@@ -1,0 +1,21 @@
+
+body {
+    background-color: blue;
+    height: 100vh;
+}
+
+.one {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100%;
+
+}
+.one h3 {
+    color: white;
+    font-family: segoe ui;
+    font-size: 13px;
+}
+button {
+    margin-top: 10px;
+}
